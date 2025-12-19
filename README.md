@@ -143,13 +143,17 @@ Example:
 
 text
 quit
-Troubleshooting
-Common Issues
-Issue	Solution
+## Troubleshooting
+
+### Issue	Solution
 Unknown command!	Check spelling and use help to see valid commands
+
 Command error! Please check 'help' for correct commands	Verify the number of parameters matches the command requirements
+
 Command error in parameters!	Ensure numeric parameters are valid numbers and names don't conflict with existing shapes
-Parameter Rules
+
+### Parameter Rules
+
 All numeric parameters must be valid numbers
 Width/height/radius/side must be greater than zero
 Shape names must be unique
