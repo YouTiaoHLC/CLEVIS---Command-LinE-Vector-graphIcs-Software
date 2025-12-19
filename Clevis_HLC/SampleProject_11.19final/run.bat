@@ -1,0 +1,1 @@
+java -cp "out\production\clevis" hk.edu.polyu.comp.comp2021.clevis.controller.Application -html
